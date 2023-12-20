@@ -1,5 +1,5 @@
 ### Electrol Commission of Zambia Mark Application
-
+#### A high school website where teachers get to share answers to the questions either asked by the pupils or by past examination papers.
 ### Project specifics
 #### 1. Frontend Tech Stacks 
 
@@ -23,7 +23,7 @@
 ### Getting Started:
 
 ```
-1. git clone git@github.com:chriford/eczmark.git
+1. git clone the repo
 ```
 ### setup without docker
 ```
